@@ -1,11 +1,12 @@
 import os
 import platform
 import json
-import shutil
 import subprocess
-from datetime import datetime
 
-
+# Fayllar famatini ozgartirish uchun kerakli kutubxonalar.
+import pandas as pd
+from fpdf import FPDF
+from docx import Document
 
 # Papka yaratish uchun os modulidan foydalanildi.
 
@@ -49,12 +50,27 @@ else:
 file_path = os.path.join(filtered_folder, "saralangan_malumotlar.txt")
 with open(file_path, "w", encoding="utf-8") as f:
     f.write("Saralangan ma'lumotlar (RAM bo'yicha):\n")
-    f.write("=" * 50 + "\n")
+    f.write("=" * 50 + "\n")  # "=" belgisi bilan chiziq chizish
     
     for index , pc in enumerate(sorted_pcs, start=1):
         f.write(f"{index}. Model: {pc['model']}\n")
         f.write(f"   RAM: {pc['ram']} GB\n")
         f.write(f"   Storage: {pc['storage']} GB\n")
-        f.write("-" * 50 + "\n")
+        f.write("-" * 50 + "\n") # "-" belgisi bilan chiziq chizish
         
 print(f"Saralangan ma'lumotlar '{file_path}' fayliga yozildi.")
+
+
+output_dir = "boshqa_formatdagi_fayllar"
+if not os.path.exists(output_dir):
+    os.mkdir(output_dir)
+    print(f"{output_dir} nomli papka yaratildi.")
+else:
+    print(f"{output_dir} nomli papka allaqachon mavjud.")
+
+
+# Exel fomatiga otkazish
+
+df = pd.DataFrame(sorted_pcs)
+excel_path = os.path.join(output_dir, "pc_rating.xlsx")
+df.to_excel(excel_path, index=False)

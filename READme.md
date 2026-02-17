@@ -1,0 +1,1 @@
+Ishlatishdan oldin buni yuklab olishni unutmang: pip install python-docx pandas openpyxl fpdf
