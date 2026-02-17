@@ -1,0 +1,202 @@
+Saralangan ma'lumotlar (RAM bo'yicha):
+==================================================
+1. Model: Workstation
+   RAM: 128 GB
+   Storage: 4TB SSD GB
+--------------------------------------------------
+2. Model: Precision 7680
+   RAM: 128 GB
+   Storage: 4TB SSD GB
+--------------------------------------------------
+3. Model: XPS 15
+   RAM: 64 GB
+   Storage: 2TB SSD GB
+--------------------------------------------------
+4. Model: Mac Studio
+   RAM: 64 GB
+   Storage: 2TB SSD GB
+--------------------------------------------------
+5. Model: Titan GT77
+   RAM: 64 GB
+   Storage: 4TB SSD GB
+--------------------------------------------------
+6. Model: ProArt Studiobook
+   RAM: 64 GB
+   Storage: 2TB SSD GB
+--------------------------------------------------
+7. Model: Omen 45L
+   RAM: 64 GB
+   Storage: 2TB SSD GB
+--------------------------------------------------
+8. Model: Lemur Pro
+   RAM: 40 GB
+   Storage: 2TB SSD GB
+--------------------------------------------------
+9. Model: MacBook Pro M3
+   RAM: 32 GB
+   Storage: 1TB SSD GB
+--------------------------------------------------
+10. Model: ROG Strix
+   RAM: 32 GB
+   Storage: 1TB SSD GB
+--------------------------------------------------
+11. Model: m16
+   RAM: 32 GB
+   Storage: 2TB SSD GB
+--------------------------------------------------
+12. Model: Aero 16
+   RAM: 32 GB
+   Storage: 1TB SSD GB
+--------------------------------------------------
+13. Model: Predator
+   RAM: 32 GB
+   Storage: 1TB SSD GB
+--------------------------------------------------
+14. Model: NUC 13
+   RAM: 32 GB
+   Storage: 1TB SSD GB
+--------------------------------------------------
+15. Model: Laptop 13
+   RAM: 32 GB
+   Storage: 1TB SSD GB
+--------------------------------------------------
+16. Model: Blade 16
+   RAM: 32 GB
+   Storage: 2TB SSD GB
+--------------------------------------------------
+17. Model: SER6
+   RAM: 32 GB
+   Storage: 1TB SSD GB
+--------------------------------------------------
+18. Model: Victus 16
+   RAM: 16 GB
+   Storage: 512GB SSD GB
+--------------------------------------------------
+19. Model: ThinkPad X1
+   RAM: 16 GB
+   Storage: 512GB SSD GB
+--------------------------------------------------
+20. Model: Katana 15
+   RAM: 16 GB
+   Storage: 1TB SSD GB
+--------------------------------------------------
+21. Model: Blade 14
+   RAM: 16 GB
+   Storage: 1TB SSD GB
+--------------------------------------------------
+22. Model: Surface Laptop 5
+   RAM: 16 GB
+   Storage: 512GB SSD GB
+--------------------------------------------------
+23. Model: Legion 5
+   RAM: 16 GB
+   Storage: 1TB SSD GB
+--------------------------------------------------
+24. Model: Zenbook
+   RAM: 16 GB
+   Storage: 1TB SSD GB
+--------------------------------------------------
+25. Model: MateBook X
+   RAM: 16 GB
+   Storage: 512GB SSD GB
+--------------------------------------------------
+26. Model: Envy 13
+   RAM: 16 GB
+   Storage: 512GB SSD GB
+--------------------------------------------------
+27. Model: Yoga 7i
+   RAM: 16 GB
+   Storage: 512GB SSD GB
+--------------------------------------------------
+28. Model: Gram 17
+   RAM: 16 GB
+   Storage: 1TB SSD GB
+--------------------------------------------------
+29. Model: Magnus EN
+   RAM: 16 GB
+   Storage: 512GB SSD GB
+--------------------------------------------------
+30. Model: Toughbook
+   RAM: 16 GB
+   Storage: 512GB SSD GB
+--------------------------------------------------
+31. Model: iMac 24
+   RAM: 16 GB
+   Storage: 512GB SSD GB
+--------------------------------------------------
+32. Model: SX14
+   RAM: 16 GB
+   Storage: 512GB SSD GB
+--------------------------------------------------
+33. Model: Mac Mini M2
+   RAM: 16 GB
+   Storage: 512GB SSD GB
+--------------------------------------------------
+34. Model: Portege
+   RAM: 16 GB
+   Storage: 512GB SSD GB
+--------------------------------------------------
+35. Model: Gamer Master
+   RAM: 16 GB
+   Storage: 1TB SSD GB
+--------------------------------------------------
+36. Model: Pavilion
+   RAM: 12 GB
+   Storage: 512GB SSD GB
+--------------------------------------------------
+37. Model: IdeaCentre
+   RAM: 12 GB
+   Storage: 1TB HDD GB
+--------------------------------------------------
+38. Model: Swift 3
+   RAM: 8 GB
+   Storage: 256GB SSD GB
+--------------------------------------------------
+39. Model: Galaxy Book
+   RAM: 8 GB
+   Storage: 256GB SSD GB
+--------------------------------------------------
+40. Model: Inspiron
+   RAM: 8 GB
+   Storage: 256GB SSD GB
+--------------------------------------------------
+41. Model: Budget PC
+   RAM: 8 GB
+   Storage: 1TB HDD GB
+--------------------------------------------------
+42. Model: MacBook Air M2
+   RAM: 8 GB
+   Storage: 256GB SSD GB
+--------------------------------------------------
+43. Model: Lifebook
+   RAM: 8 GB
+   Storage: 256GB SSD GB
+--------------------------------------------------
+44. Model: OptiPlex
+   RAM: 8 GB
+   Storage: 500GB HDD GB
+--------------------------------------------------
+45. Model: Pixelbook
+   RAM: 8 GB
+   Storage: 128GB SSD GB
+--------------------------------------------------
+46. Model: CoreBook
+   RAM: 8 GB
+   Storage: 256GB SSD GB
+--------------------------------------------------
+47. Model: Surface Pro 9
+   RAM: 8 GB
+   Storage: 256GB SSD GB
+--------------------------------------------------
+48. Model: Thin + Light
+   RAM: 8 GB
+   Storage: 256GB SSD GB
+--------------------------------------------------
+49. Model: Vivobook
+   RAM: 4 GB
+   Storage: 128GB SSD GB
+--------------------------------------------------
+50. Model: Retro PC
+   RAM: 1 GB
+   Storage: 40GB HDD GB
+--------------------------------------------------
