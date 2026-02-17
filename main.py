@@ -22,9 +22,7 @@ print("Papkadagi fayllar:" , files)
 
 
 
-with open(file_path, "w") as file:
-    file.write( "Protsessor malumoti: " + platform.processor() + "\n")
-    file.write( "Operatsion tizim: " + platform.system() + "\n")
-    file.write( "Tizim versiyasi: " + platform.release() + "\n")
-    file.write( "Platforma versiyasi: " + platform.version() + "\n")
+with open(pcs.json, "r") as file:
+    all_pcs = json.load(file)
+    
     
