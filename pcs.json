@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "brand": "Apple",
+        "model": "MacBook Pro M3",
+        "cpu": "M3 Max",
+        "ram": 32,
+        "storage": "1TB SSD",
+        "os": "macOS",
+        "type": "Laptop"
+    },
+    {
+        "id": 2,
+        "brand": "Dell",
+        "model": "XPS 15",
+        "cpu": "Intel i9",
+        "ram": 64,
+        "storage": "2TB SSD",
+        "os": "Windows 11",
+        "type": "Laptop"
+    },
+    {
+        "id": 3,
+        "brand": "HP",
+        "model": "Victus 16",
+        "cpu": "AMD Ryzen 7",
+        "ram": 16,
+        "storage": "512GB SSD",
+        "os": "Windows 11",
+        "type": "Gaming Laptop"
+    },
+    {
+        "id": 4,
+        "brand": "Lenovo",
+        "model": "ThinkPad X1",
+        "cpu": "Intel i7",
+        "ram": 16,
+        "storage": "512GB SSD",
+        "os": "Linux",
+        "type": "Laptop"
+    },
+    {
+        "id": 5,
+        "brand": "ASUS",
+        "model": "ROG Strix",
+        "cpu": "Intel i9",
+        "ram": 32,
+        "storage": "1TB SSD",
+        "os": "Windows 11",
+        "type": "Desktop"
+    },
+    {
+        "id": 6,
+        "brand": "MSI",
+        "model": "Katana 15",
+        "cpu": "Intel i7",
+        "ram": 16,
+        "storage": "1TB SSD",
+        "os": "Windows 11",
+        "type": "Gaming Laptop"
+    },
+    {
+        "id": 7,
+        "brand": "Acer",
+        "model": "Swift 3",
+        "cpu": "AMD Ryzen 5",
+        "ram": 8,
+        "storage": "256GB SSD",
+        "os": "Windows 10",
+        "type": "Laptop"
+    },
+    {
+        "id": 8,
+        "brand": "Custom",
+        "model": "Workstation",
+        "cpu": "AMD Threadripper",
+        "ram": 128,
+        "storage": "4TB SSD",
+        "os": "Ubuntu",
+        "type": "Desktop"
+    },
+    {
+        "id": 9,
+        "brand": "Razer",
+        "model": "Blade 14",
+        "cpu": "AMD Ryzen 9",
+        "ram": 16,
+        "storage": "1TB SSD",
+        "os": "Windows 11",
+        "type": "Laptop"
+    },
+    {
+        "id": 10,
+        "brand": "Samsung",
+        "model": "Galaxy Book",
+        "cpu": "Intel i5",
+        "ram": 8,
+        "storage": "256GB SSD",
+        "os": "Windows 11",
+        "type": "Laptop"
+    },
+    {
+        "id": 11,
+        "brand": "Alienware",
+        "model": "m16",
+        "cpu": "Intel i9",
+        "ram": 32,
+        "storage": "2TB SSD",
+        "os": "Windows 11",
+        "type": "Gaming Laptop"
+    },
+    {
+        "id": 12,
+        "brand": "Microsoft",
+        "model": "Surface Laptop 5",
+        "cpu": "Intel i7",
+        "ram": 16,
+        "storage": "512GB SSD",
+        "os": "Windows 11 Pro",
+        "type": "Laptop"
+    },
+    {
+        "id": 13,
+        "brand": "Gigabyte",
+        "model": "Aero 16",
+        "cpu": "Intel i7",
+        "ram": 32,
+        "storage": "1TB SSD",
+        "os": "Windows 11",
+        "type": "Laptop"
+    },
+    {
+        "id": 14,
+        "brand": "Apple",
+        "model": "Mac Studio",
+        "cpu": "M2 Ultra",
+        "ram": 64,
+        "storage": "2TB SSD",
+        "os": "macOS",
+        "type": "Desktop"
+    },
+    {
+        "id": 15,
+        "brand": "HP",
+        "model": "Pavilion",
+        "cpu": "Intel i5",
+        "ram": 12,
+        "storage": "512GB SSD",
+        "os": "Windows 10",
+        "type": "Laptop"
+    },
+    {
+        "id": 16,
+        "brand": "Lenovo",
+        "model": "Legion 5",
+        "cpu": "AMD Ryzen 7",
+        "ram": 16,
+        "storage": "1TB SSD",
+        "os": "Windows 11",
+        "type": "Gaming Laptop"
+    },
+    {
+        "id": 17,
+        "brand": "Dell",
+        "model": "Inspiron",
+        "cpu": "Intel i3",
+        "ram": 8,
+        "storage": "256GB SSD",
+        "os": "Windows 11",
+        "type": "Laptop"
+    },
+    {
+        "id": 18,
+        "brand": "ASUS",
+        "model": "Zenbook",
+        "cpu": "Intel i7",
+        "ram": 16,
+        "storage": "1TB SSD",
+        "os": "Windows 11",
+        "type": "Laptop"
+    },
+    {
+        "id": 19,
+        "brand": "Huawei",
+        "model": "MateBook X",
+        "cpu": "Intel i7",
+        "ram": 16,
+        "storage": "512GB SSD",
+        "os": "Windows 10",
+        "type": "Laptop"
+    },
+    {
+        "id": 20,
+        "brand": "Custom",
+        "model": "Budget PC",
+        "cpu": "Intel i3",
+        "ram": 8,
+        "storage": "1TB HDD",
+        "os": "Linux Mint",
+        "type": "Desktop"
+    },
+    {
+        "id": 21,
+        "brand": "Apple",
+        "model": "MacBook Air M2",
+        "cpu": "M2",
+        "ram": 8,
+        "storage": "256GB SSD",
+        "os": "macOS",
+        "type": "Laptop"
+    },
+    {
+        "id": 22,
+        "brand": "Acer",
+        "model": "Predator",
+        "cpu": "Intel i9",
+        "ram": 32,
+        "storage": "1TB SSD",
+        "os": "Windows 11",
+        "type": "Gaming Laptop"
+    },
+    {
+        "id": 23,
+        "brand": "HP",
+        "model": "Envy 13",
+        "cpu": "Intel i7",
+        "ram": 16,
+        "storage": "512GB SSD",
+        "os": "Windows 11",
+        "type": "Laptop"
+    },
+    {
+        "id": 24,
+        "brand": "Dell",
+        "model": "Precision 7680",
+        "cpu": "Intel i9",
+        "ram": 128,
+        "storage": "4TB SSD",
+        "os": "Windows 11 Pro",
+        "type": "Workstation"
+    },
+    {
+        "id": 25,
+        "brand": "Lenovo",
+        "model": "Yoga 7i",
+        "cpu": "Intel i5",
+        "ram": 16,
+        "storage": "512GB SSD",
+        "os": "Windows 11",
+        "type": "2-in-1 Laptop"
+    },
+    {
+        "id": 26,
+        "brand": "MSI",
+        "model": "Titan GT77",
+        "cpu": "Intel i9",
+        "ram": 64,
+        "storage": "4TB SSD",
+        "os": "Windows 11",
+        "type": "Gaming Laptop"
+    },
+    {
+        "id": 27,
+        "brand": "LG",
+        "model": "Gram 17",
+        "cpu": "Intel i7",
+        "ram": 16,
+        "storage": "1TB SSD",
+        "os": "Windows 11",
+        "type": "Laptop"
+    },
+    {
+        "id": 28,
+        "brand": "Fujitsu",
+        "model": "Lifebook",
+        "cpu": "Intel i5",
+        "ram": 8,
+        "storage": "256GB SSD",
+        "os": "Windows 10",
+        "type": "Laptop"
+    },
+    {
+        "id": 29,
+        "brand": "Zotac",
+        "model": "Magnus EN",
+        "cpu": "Intel i7",
+        "ram": 16,
+        "storage": "512GB SSD",
+        "os": "Windows 11",
+        "type": "Mini PC"
+    },
+    {
+        "id": 30,
+        "brand": "Intel",
+        "model": "NUC 13",
+        "cpu": "Intel i9",
+        "ram": 32,
+        "storage": "1TB SSD",
+        "os": "No OS",
+        "type": "Mini PC"
+    },
+    {
+        "id": 31,
+        "brand": "Panasonic",
+        "model": "Toughbook",
+        "cpu": "Intel i5",
+        "ram": 16,
+        "storage": "512GB SSD",
+        "os": "Windows 10 Pro",
+        "type": "Rugged Laptop"
+    },
+    {
+        "id": 32,
+        "brand": "Apple",
+        "model": "iMac 24",
+        "cpu": "M3",
+        "ram": 16,
+        "storage": "512GB SSD",
+        "os": "macOS",
+        "type": "All-in-One"
+    },
+    {
+        "id": 33,
+        "brand": "Dell",
+        "model": "OptiPlex",
+        "cpu": "Intel i5",
+        "ram": 8,
+        "storage": "500GB HDD",
+        "os": "Windows 10",
+        "type": "Desktop"
+    },
+    {
+        "id": 34,
+        "brand": "Asus",
+        "model": "Vivobook",
+        "cpu": "AMD Ryzen 3",
+        "ram": 4,
+        "storage": "128GB SSD",
+        "os": "Windows 11 S",
+        "type": "Laptop"
+    },
+    {
+        "id": 35,
+        "brand": "Framework",
+        "model": "Laptop 13",
+        "cpu": "Intel i7",
+        "ram": 32,
+        "storage": "1TB SSD",
+        "os": "Fedora",
+        "type": "Modular Laptop"
+    },
+    {
+        "id": 36,
+        "brand": "System76",
+        "model": "Lemur Pro",
+        "cpu": "Intel i7",
+        "ram": 40,
+        "storage": "2TB SSD",
+        "os": "Pop!_OS",
+        "type": "Laptop"
+    },
+    {
+        "id": 37,
+        "brand": "Google",
+        "model": "Pixelbook",
+        "cpu": "Intel i5",
+        "ram": 8,
+        "storage": "128GB SSD",
+        "os": "ChromeOS",
+        "type": "Chromebook"
+    },
+    {
+        "id": 38,
+        "brand": "Chuwi",
+        "model": "CoreBook",
+        "cpu": "Intel i3",
+        "ram": 8,
+        "storage": "256GB SSD",
+        "os": "Windows 10",
+        "type": "Laptop"
+    },
+    {
+        "id": 39,
+        "brand": "VAIO",
+        "model": "SX14",
+        "cpu": "Intel i7",
+        "ram": 16,
+        "storage": "512GB SSD",
+        "os": "Windows 11",
+        "type": "Laptop"
+    },
+    {
+        "id": 40,
+        "brand": "Razer",
+        "model": "Blade 16",
+        "cpu": "Intel i9",
+        "ram": 32,
+        "storage": "2TB SSD",
+        "os": "Windows 11",
+        "type": "Gaming Laptop"
+    },
+    {
+        "id": 41,
+        "brand": "IBM",
+        "model": "Retro PC",
+        "cpu": "Pentium",
+        "ram": 1,
+        "storage": "40GB HDD",
+        "os": "Windows XP",
+        "type": "Vintage Desktop"
+    },
+    {
+        "id": 42,
+        "brand": "Beelink",
+        "model": "SER6",
+        "cpu": "AMD Ryzen 9",
+        "ram": 32,
+        "storage": "1TB SSD",
+        "os": "Windows 11",
+        "type": "Mini PC"
+    },
+    {
+        "id": 43,
+        "brand": "ASUS",
+        "model": "ProArt Studiobook",
+        "cpu": "Intel i9",
+        "ram": 64,
+        "storage": "2TB SSD",
+        "os": "Windows 11 Pro",
+        "type": "Workstation Laptop"
+    },
+    {
+        "id": 44,
+        "brand": "Lenovo",
+        "model": "IdeaCentre",
+        "cpu": "AMD Ryzen 5",
+        "ram": 12,
+        "storage": "1TB HDD",
+        "os": "Windows 11",
+        "type": "Desktop"
+    },
+    {
+        "id": 45,
+        "brand": "HP",
+        "model": "Omen 45L",
+        "cpu": "Intel i9",
+        "ram": 64,
+        "storage": "2TB SSD",
+        "os": "Windows 11",
+        "type": "Gaming Desktop"
+    },
+    {
+        "id": 46,
+        "brand": "Apple",
+        "model": "Mac Mini M2",
+        "cpu": "M2 Pro",
+        "ram": 16,
+        "storage": "512GB SSD",
+        "os": "macOS",
+        "type": "Mini PC"
+    },
+    {
+        "id": 47,
+        "brand": "Microsoft",
+        "model": "Surface Pro 9",
+        "cpu": "Intel i5",
+        "ram": 8,
+        "storage": "256GB SSD",
+        "os": "Windows 11",
+        "type": "Tablet"
+    },
+    {
+        "id": 48,
+        "brand": "Dynabook",
+        "model": "Portege",
+        "cpu": "Intel i7",
+        "ram": 16,
+        "storage": "512GB SSD",
+        "os": "Windows 11",
+        "type": "Laptop"
+    },
+    {
+        "id": 49,
+        "brand": "CyberPowerPC",
+        "model": "Gamer Master",
+        "cpu": "AMD Ryzen 5",
+        "ram": 16,
+        "storage": "1TB SSD",
+        "os": "Windows 11",
+        "type": "Gaming Desktop"
+    },
+    {
+        "id": 50,
+        "brand": "Vizio",
+        "model": "Thin + Light",
+        "cpu": "Intel i7",
+        "ram": 8,
+        "storage": "256GB SSD",
+        "os": "Windows 8",
+        "type": "Laptop"
+    }
+]

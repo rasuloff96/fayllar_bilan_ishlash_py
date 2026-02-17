@@ -1,0 +1,4 @@
+Protsessor malumoti: Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+Operatsion tizim: Windows
+Tizim versiyasi: 11
+Platforma versiyasi: 10.0.22621
