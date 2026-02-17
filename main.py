@@ -74,3 +74,15 @@ else:
 df = pd.DataFrame(sorted_pcs)
 excel_path = os.path.join(output_dir, "pc_rating.xlsx")
 df.to_excel(excel_path, index=False)
+
+
+# WORD formatiga otkazish
+
+doc = Document()
+doc.add_heading("Kuchli kompyuterlar ro'yxati", 0)
+for pc in sorted_pcs:
+    doc.add_paragraph(f"Model: {pc['model']}")
+    doc.add_paragraph(f"RAM: {pc['ram']} GB")
+    doc.add_paragraph(f"Storage: {pc['storage']} GB")
+    doc.add_paragraph("-" * 30)
+    doc.save(os.path.join(output_dir, "pc_rating.docx"))
